@@ -3,7 +3,8 @@
 This project involves the development of a 3D printer detection and control system using Machine Learning, Computer Vision, and MQTT with Python.
 
 ## Author
-- [Henry Requena](https://github.com/hrbackdev) ([Portfolio](https://github.com/hrbackdev/Henry%20Requena%20-%20Resume%202024.pdf))
+- [Henry Requena](https://github.com/hrbackdev)
+- [![Download PDF](https://img.shields.io/badge/Download%20PDF-Portfolio-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/hrbackdev/hrbackdev/blob/9239a1e7f326294764f744511e0d664bc90c7ff4/Henry%20Requena%20-%20Resume%202024.pdf)
 
 ## Technologies Used
 - ![paho-mqtt](https://img.shields.io/badge/paho--mqtt-007ACC?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
@@ -14,4 +15,3 @@ This project involves the development of a 3D printer detection and control syst
 - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
